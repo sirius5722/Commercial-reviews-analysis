@@ -2,7 +2,11 @@
 The project is a Program that aims to Analyze customer reviews on online-bought products . And extract insights , word trends … etc. In order to help online sellers improve and understand their customer needs.
 ### With a Modern GUI using Tkinter .
 
+
+
 >> Important Note : In order to Run the code quickly while editing , Don't call processData Function and use the already processed data file that's called  (ClothesReviews_processed.csv) instead of main dataset file .
+
+
 
 
 
