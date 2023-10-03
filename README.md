@@ -1,5 +1,5 @@
 # Commercial-reviews-analysis With GUI
-The project is a Program that aims to Analyze customer reviews on online-bought products . And extract insights , word trends … etc. In order to help online sellers improve and understand their customer needs.
+The project is a Program that aims to Analyze customer reviews for online-bought products . And extract insights , word trends … etc. In order to help online sellers improve and understand their customer needs.
 ### With a Modern GUI using Tkinter .
 
 
